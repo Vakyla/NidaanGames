@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 8c34da5e3e6cd364f80ac314c3b99f88
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Archer
+  fontNames:
+  - Archer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2fca94c57b453a7429db336b7fcff328, type: 3}
+  - {fileID: 12800000, guid: 2fdf64e62c904df4cbf0cc4599ef6048, type: 3}
+  - {fileID: 12800000, guid: 1b3035f94a9490941b0a8cfad178c72b, type: 3}
+  - {fileID: 12800000, guid: 6cbad9fffc30f204b8b2009debe99268, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
